@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* data mining
+  * machine learning
+- [ ] deep learning
+- [x] supervised learning
